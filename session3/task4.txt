@@ -1,0 +1,5 @@
+1stPlayer:	Invalid	because Cannot start with a digit.
+player_age: Valid	player_age because Uses valid characters.
+$score:	Invalid	because Special characters like $ are not allowed in C variable names.
+total-marks: Invalid because the hyphen (-) is seen by the C compiler as a subtraction operator.
+userName: Valid	userName because standard valid name using camelCase.

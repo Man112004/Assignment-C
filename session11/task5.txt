@@ -1,0 +1,4 @@
+likes = 500
+&likes = 1000         address of likes
+ptrLikes = &likes     pointer stores that address
+*ptrLikes = 500       value at that address

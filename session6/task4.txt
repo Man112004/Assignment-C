@@ -1,0 +1,18 @@
+for	is Entry-controlled: condition is checked first.
+while is Entry-controlled: condition is checked first.
+do-while is Exit-controlled: condition is checked after the loop body.
+
+while code ex:
+int i = 10;
+
+while(i < 5) {
+    printf("Hello");
+}
+
+
+do while ex:
+int i = 10;
+
+do {
+    printf("Hello");
+} while(i < 5);
