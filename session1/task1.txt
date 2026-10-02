@@ -1,0 +1,1 @@
+A program is a set of instructions written in a programming language that tells a computer or mobile device what to do. For example, in Zomato, a program allows users to search for restaurants, select food items, place an order, and make payment.

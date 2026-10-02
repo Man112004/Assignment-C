@@ -1,0 +1,3 @@
+C: Source code is compiled into machine code before execution.
+Java: Code is compiled into bytecode and then executed by the JVM.
+Python: Code is generally interpreted by the Python interpreter.
